@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Notepad</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="notepad">دفترچه یادداشت</string>
+    <string name="search">جستجو...</string>
+    <string name="favorites">علاقه مندی ها</string>
+    <string name="delete">حذف</string>
+    <string name="menu">منو</string>
+    <string name="title">عنوان :</string>
+    <string name="Notedetails">تست</string>
+    <string name="datemodified">زمان</string>
+    <string name="edittext">ویرایش</string>
+    <string name="plus">یادداشت جدید</string>
+    <string name="blackheart">قلب مشکی</string>
+    <string name="date">تاریخ</string>
+    <string name="enter_text">یادداشت :</string>
+    <string name="favorite">علاقه مندی</string>
+    <string name="save">ذخیره</string>
+    <string name="copy">کپی</string>
+    <string name="share">اشتراک گذاری</string>
+</resources>
